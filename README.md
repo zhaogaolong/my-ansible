@@ -11,3 +11,9 @@
 
 ### 截图
 
+- python
+![image](https://github.com/zhaogaolong/my-gvim/blob/master/screenshots/python.jpg)
+
+- djangohtml
+![image](https://github.com/zhaogaolong/my-gvim/blob/master/screenshots/djangohtml.jpg)
+
